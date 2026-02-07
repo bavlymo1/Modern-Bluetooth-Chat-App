@@ -58,4 +58,5 @@ It supports **device discovery**, **paired devices**, **server/client connection
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   https://github.com/bavlymo1/Modern-Bluetooth-Chat-App.git
+
